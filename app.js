@@ -26,10 +26,10 @@ App({
   },
   globalData:{
     userInfo:null,
-    NLPAppkey: "******",
-    NLPAppSecret: "******",
+    NLPAppkey: "******", //需要自己去OLAMI申请
+    NLPAppSecret: "******", //同上
     NLPUrl: "https://cn.olami.ai/cloudservice/api",
-    NLPCusid: "******",
+    NLPCusid: "******",  //
     //slikToCharUrl: "https://api.happycxz.com/test/silk2asr/olami/asr",
     slikToCharUrl: "https://api.happycxz.com/wxapp/silk2asr",
   },
