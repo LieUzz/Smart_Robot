@@ -26,10 +26,10 @@ App({
   },
   globalData:{
     userInfo:null,
-    NLPAppkey: "c3f5b2f4fe2445fcb339cc43e6d8b6aa",
-    NLPAppSecret: "42878255d5a54dc2918fb6b542db33da",
+    NLPAppkey: "******",
+    NLPAppSecret: "******",
     NLPUrl: "https://cn.olami.ai/cloudservice/api",
-    NLPCusid: "353313079389284",
+    NLPCusid: "******",
     //slikToCharUrl: "https://api.happycxz.com/test/silk2asr/olami/asr",
     slikToCharUrl: "https://api.happycxz.com/wxapp/silk2asr",
   },
